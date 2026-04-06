@@ -6,14 +6,15 @@ OPTC Checklist allow to generate csv file to track characters in the One Piece T
 `image_links` : list of thumbnail image for each characters.
 
 All data are provided by [optc database community](https://github.com/2Shankz/optc-db.github.io)
+
 `data.json` is all characters :
 
-[data to copy](https://github.com/2Shankz/optc-db.github.io/blob/master/common/data/units.js)
+[data source file](https://github.com/2Shankz/optc-db.github.io/blob/master/common/data/units.js)
 
 `evolutions.json` usefull to track best form of a characters :
 
-[data to copy](https://github.com/2Shankz/optc-db.github.io/blob/master/common/data/evolutions.js)
+[evolution source file](https://github.com/2Shankz/optc-db.github.io/blob/master/common/data/evolutions.js)
 
 `flags.json` usefull to track different limited drop location :
 
-[data to copy](https://github.com/2Shankz/optc-db.github.io/blob/master/common/data/flags.js)
+[flags source file](https://github.com/2Shankz/optc-db.github.io/blob/master/common/data/flags.js)
