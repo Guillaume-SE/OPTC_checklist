@@ -5506,6 +5506,26 @@
 		"evolution": 3106,
 		"evolvers": [117, 93, 94, 99, 104]
 	},
+	"3108": {
+		"evolution": 4651,
+		"evolvers": [
+			"4651-skull",
+			"4651-skull",
+			"4651-skull",
+			"4651-skull",
+			"4651-skull"
+		]
+	},
+	"3115": {
+		"evolution": 4656,
+		"evolvers": [
+			"4656-skull",
+			"4656-skull",
+			"4656-skull",
+			"4656-skull",
+			"4656-skull"
+		]
+	},
 	"3117": {
 		"evolution": 3118,
 		"evolvers": [118, 88, 266, 304, 267]
