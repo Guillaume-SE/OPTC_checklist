@@ -6052,6 +6052,16 @@
 		"evolution": 3462,
 		"evolvers": [118, 97, 1180, 302, 267]
 	},
+	"3462": {
+		"evolution": 4662,
+		"evolvers": [
+			"4662-skull",
+			"4662-skull",
+			"4662-skull",
+			"4662-skull",
+			"4662-skull"
+		]
+	},
 	"3471": {
 		"evolution": 3472,
 		"evolvers": [118, 1180, 300, 100, 267]
